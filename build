@@ -5,5 +5,6 @@ curl https://sh.rustup.rs -sSf | sh -s -- --profile minimal --default-toolchain 
 source $HOME/.cargo/env
 
 cargo install mdbook
+cargo install mdbook-cat-prep
 
 mdbook build
