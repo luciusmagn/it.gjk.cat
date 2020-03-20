@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # Python Interpreter
 
 Python interpreter je program jež nám umožňuje spustit skript který jsme si napsali.

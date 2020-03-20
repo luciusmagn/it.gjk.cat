@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # IF
 
 If je blok který vyhodnocuje nějaký boolean výrazu (výrazu který vrací buď `True` nebo `False`)

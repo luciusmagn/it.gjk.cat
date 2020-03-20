@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # For
 
 For slouží k procházení seznamů. Při definici píšeme název proměnné

@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # Datové Typy
 
 V programování existuje pojem datových typů, které specifikují jakého typu může být hodnota v proměnné.

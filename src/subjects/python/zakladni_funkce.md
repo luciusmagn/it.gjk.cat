@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # Základní funkce
 V naší první hodině jsme probrali několik funkcí. 
 Funkce je kus kódu, který můžeme volat na vícero místech (to si ale do detailu probereme později).

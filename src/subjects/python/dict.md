@@ -1,7 +1,7 @@
 nazev = "Programovací jazyk Python"
 zodpovedna_osoba = "Dawid J. Kubis"
 bio = "V tomto předmětu se učí Python"
----
++++
 # Dict
 
 `dict` je datový typ sloužící k ukládání hodnot pod určitými klíči. Jedná se určitým způsobem o něco jako pole, kde místo číselných indexů používáme libovolné neměnné objekty (čísla, stringy, tuply...)
