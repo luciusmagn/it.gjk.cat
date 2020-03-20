@@ -21,6 +21,11 @@ mdbook build
 ./build
 ```
 
+## Logo
+
+![catto](src/img/cat.png)
+- by Redpanda
+
 ## Licence
 
 ```
