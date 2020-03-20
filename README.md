@@ -7,7 +7,7 @@ Pro návod, jakým způsobem <https://gjk.cat> funguje, navštivte odkaz
 
 ## Kompilace
 
-0. v případě, že `cat-prep`, `mdbook` a `rust` jsou již nainstalované v systému:
+0. v případě, že `cat-prep`, `mdbook`, `cat-prep` a `rust` jsou již nainstalované v systému:
 
 ```sh
 mdbook build
@@ -24,7 +24,7 @@ mdbook build
 ## Logo
 
 ![catto](src/img/cat.png)
-- by Redpanda
+- by CharleneOlsen
 
 ## Licence
 
