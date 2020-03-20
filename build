@@ -13,3 +13,5 @@ git clone https://github.com/gjk-cat/it.gjk.cat
 cd it.gjk.cat
 
 mdbook build
+
+cp -r book ../book
