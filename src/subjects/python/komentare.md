@@ -1,8 +1,7 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Komentáře"
+tagy = ["python", "comment"]
 +++
-# Komentare
+# Komentáře
 
 Komentář (anglicky comment) označuje sekci v kódu, která není určená pro Pythoní interpreter, ale pro programátora, který kód čte. Hodí se většinou pro přehlednost a taky když se podíváte na svůj kód po nějaké době tak aby se tomu dalo porozumět.
 Ve větších projektech je komentování kódu vhodné, aby bylo snadnější se v kódu vyznat. V Pythonu se dělá znakem `#`.

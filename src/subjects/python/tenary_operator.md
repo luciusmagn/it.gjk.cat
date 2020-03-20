@@ -1,6 +1,5 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Ternární operátor"
+tagy = ["python", "operator", "ternarni", "if"]
 +++
 # Tenarni operator
 Unarni operatory jsou operatory ktery berou 1 vstup. Napriklad `not` je unarni operator.

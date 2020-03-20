@@ -1,6 +1,5 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Základní funkce"
+tagy = ["python", "fp", "funkce"]
 +++
 # Základní funkce
 V naší první hodině jsme probrali několik funkcí. 

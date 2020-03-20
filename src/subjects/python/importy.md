@@ -1,6 +1,5 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Importy"
+tagy = ["python", "import"]
 +++
 # Importy
 Importy nam slouzi k organizaci kodu nebo pouzivani kodu kterej napsal nekdo jinej.

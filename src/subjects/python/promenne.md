@@ -1,6 +1,5 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Proměnné"
+tagy = ["python", "variable"]
 +++
 # Proměnná
 Proměnná (anglicky variable) je základ ukládání hodnot v programu. Narozdíl od matematiky je proměnná v programování (v jazyce Python) přepisovatelná (můžeme jít měnit).

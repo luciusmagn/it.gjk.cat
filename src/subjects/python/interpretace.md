@@ -1,6 +1,7 @@
-nazev = "Programovací jazyk Python"
-zodpovedna_osoba = "Dawid J. Kubis"
-bio = "V tomto předmětu se učí Python"
+nazev = "Interpretace vs. kompilace"
+tagy = ["python", "kompilace", "interpretace"]
+
+
 +++
 # Interpretace vs. Kompilace
 
