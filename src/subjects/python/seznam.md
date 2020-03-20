@@ -1,3 +1,7 @@
+nazev = "Programovací jazyk Python"
+zodpovedna_osoba = "Dawid J. Kubis"
+bio = "V tomto předmětu se učí Python"
+---
 # Seznamy
 
 Seznamy nám dovolují ukládat hodnoty v seznamu (lol) a pracovat s nima.

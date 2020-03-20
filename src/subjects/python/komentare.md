@@ -1,3 +1,7 @@
+nazev = "Programovací jazyk Python"
+zodpovedna_osoba = "Dawid J. Kubis"
+bio = "V tomto předmětu se učí Python"
+---
 # Komentare
 
 Komentář (anglicky comment) označuje sekci v kódu, která není určená pro Pythoní interpreter, ale pro programátora, který kód čte. Hodí se většinou pro přehlednost a taky když se podíváte na svůj kód po nějaké době tak aby se tomu dalo porozumět.

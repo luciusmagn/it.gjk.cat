@@ -1,3 +1,7 @@
+nazev = "Programovací jazyk Python"
+zodpovedna_osoba = "Dawid J. Kubis"
+bio = "V tomto předmětu se učí Python"
+---
 # Funkce
 
 Funkce jsou jedna z nejpodstatnějších věcí o kterých se budeme bavit.

@@ -1,3 +1,7 @@
+nazev = "Programovací jazyk Python"
+zodpovedna_osoba = "Dawid J. Kubis"
+bio = "V tomto předmětu se učí Python"
+---
 # Třídy a Objekty
 
 Třídy v programování popisují nějaký "typ" určité hodnoty.
