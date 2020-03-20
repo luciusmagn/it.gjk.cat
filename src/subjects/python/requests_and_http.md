@@ -2,7 +2,7 @@ nazev = "HTTP v Pythonu"
 tagy = ["python", "http"]
 +++
 # Http
-Http je zpusob komunikace ktery se pouziva na siti.
+Http je způsob komunikace ktery se pouziva na siti.
 
 Http posila data, vetsinou ve formatu `html`, kterej nespis znate ale neplette si ty pojmy.
 Http zacina headerem kterej popisuje:
