@@ -1,22 +1,17 @@
-
 <p style="text-align:center"><img src="img/cat.png"></p>
 
-# GJK Cat - Repozitář studijních materiálů
+# GJK Cat Angličtina - Repozitář studijních materiálů
 
 Vítejte na webu GJK Kočky, který slouží jako zdroj studijních materiálů jak od kantorů, tak od studentů.
-V postranní nabídce si můžete zvolit obor a přesunout se na pod-wiki pro předměty daného oboru.
-Pokud byste rádi přidali nějaké materiály na tento web, přečtěte si [jak přispět](/contribute.md).
+V postranní nabídce si můžete zvolit předmět a přesunout se na materiály daného předmětu.
+Stránky s [učiteli](/teachers.md) a [tagy](/tags.md) seskupují obsah podle různých kritérií.
+Pokud byste rádi přidali nějaké materiály na tento web, podívejte se na <https://gjk.cat>.
 
-Vytváření materiálů na __gjk.cat__ vyžaduje znalost __Git(hub)u__ a formátu __Markdown__.
-Pokud je neznáte, navštivte sekci [návody](/navody.md).
+Vytváření materiálů na platformě __gjk.cat__
+vyžaduje znalost __Git(hub)u__ a formátu __Markdown__.
+Pokud je neznáte, navštivte <https://gjk.cat>.
 
 ## Kontakt
 Tuto wiki spravuje [_Lukáš Hozda_](mailto:luk.hozda@gmail.com).
-Pro více kontaktních informací viz sekce [Kontakt & Podpora](/kontakt.md).
+Pro více kontaktních informací navštivte mojí kartu učitele.
 
-<div style="opacity: 0.2">
-
-#### Koťátka
-
-Pro roztomilá koťátka navštivte stránku [Kočky](/catto.md)
-</div>
