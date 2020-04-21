@@ -3,9 +3,11 @@ tagy = ["python", "bool"]
 +++
 # Boolean výrazy
 
-Boolean výrazy jsou výrazy které vracejí dvě možné hodnoty : `True` nebo `False`.
+Boolean výrazy jsou výrazy které obsahují dvě možné hodnoty : `True` nebo `False`.
 
 ## Operátory
+
+Tyhle základní logické operátory rozlišujeme v pythonu :
 
 ### `<`, `>` - menší než, větší než
 ```python
@@ -40,6 +42,7 @@ True
 >>> True or False # a obracene
 True
 >>> False or False
+False
 ```
 
 ### `not` - negace

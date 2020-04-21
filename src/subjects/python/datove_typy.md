@@ -23,7 +23,7 @@ Python je dynamicky typovaný jazyk :
 
 ## Datové Typy
 
-Teď si projedeme několik základních datových typů. Budu tady používat funkci `type()`, o které jsme se sice nezmíňovali ale hodí se na zjišťování datového typu proměnných.
+Teď si projedeme několik základních datových typů. Budu tady používat "funkci" `type()`, o které jsme se sice nezmíňovali ale hodí se na zjišťování datového typu proměnných.
 
 ### int
 Typ `int` (integer) je typ který popisuje nějaké celé číslo, kladné nebo záporné nebo nulové.
@@ -46,7 +46,7 @@ Typ `float` je typ který popisuje nějaké číslo s destinnou čárkou, kladn�
 
 ### str/String
 Typ `str` (také `String`) je typ který popisuje nějaký textový řetězec. V Pythonu je do tohoto typu taky zahrnutý takzvaný typ `char`, který popisuje jeden znak.
-Řeťezec by měl být obalen uvozovkami (`""`) nebo apostrofy (`''`) aby se dal odlišit od proměnných.
+Řeťezec by měl být obalen uvozovkami (`""`) nebo apostrofy (`''`) aby se dal odlišit od názvů proměnných.
 ```python
 >>> x = 'hello world' # str
 >>> type(x)
