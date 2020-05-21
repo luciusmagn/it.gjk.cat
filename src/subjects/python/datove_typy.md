@@ -3,7 +3,7 @@ tagy = ["python", "typy"]
 +++
 # Datové Typy
 
-V programování existuje pojem datových typů, které specifikují jakého typu může být hodnota v proměnné.
+V programování existuje pojem datových typů, které specifikují jakého typu může být hodnota proměnné nabývat.
 
 ## Staticky a dynamicky typované jazyky
 
